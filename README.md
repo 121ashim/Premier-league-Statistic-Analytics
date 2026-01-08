@@ -8,5 +8,9 @@ Extracts key metrics like xG, pass accuracy, shots, and possession
 Generates visual charts for player comparisons and team performance
 Automated scripts for data loading, cleaning, and visualization
 
- Tech Stack:
-Python, Pandas, NumPy, Matplotlib
+## 🛠️ Tech Stack
+- 🐍 Python
+- 📊 Pandas, NumPy
+- 📈 Matplotlib
+- 📊 Power BI
+
