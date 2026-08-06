@@ -1,7 +1,8 @@
 # Premier-league-Statistic-Analytics
 A Python-based football analytics project that processes match and player statistics to generate clear, data-driven insights. The dashboard includes visual comparisons, team performance tracking, and key metric analysis.
 
-
+![image alt](https://github.com/121ashim/Premier-league-Statistic-Analytics/blob/main/football1.jpg?raw=true)
+![image alt](https://github.com/121ashim/Premier-league-Statistic-Analytics/blob/main/football2.jpg?raw=true)
 Features:
 Processes and cleans large football datasets using Pandas
 Extracts key metrics like xG, pass accuracy, shots, and possession
